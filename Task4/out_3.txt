@@ -1,0 +1,5 @@
+"Credit card"	13690194
+"Cash"	6513504
+"No charge"	108198
+"Dispute"	30679
+"Unknown"	1
